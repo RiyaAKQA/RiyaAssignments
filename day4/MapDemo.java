@@ -22,13 +22,7 @@ public class MapDemo {
 		foodMap.putIfAbsent(4, "Burger");
 		System.out.println(foodMap);
 		
-		
-		
-		
-		
-
-		
-		
+	
 
 	}
 
